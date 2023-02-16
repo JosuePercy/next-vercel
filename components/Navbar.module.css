@@ -1,0 +1,12 @@
+.capsule-conteiner a {
+  margin-right: 20px;
+  /* text-decoration: none; */
+  /* color: red; */
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.capsule-conteiner {
+  display: grid;
+  justify-content: flex-end;
+  display: flex;
+}
